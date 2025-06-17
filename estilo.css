@@ -1,0 +1,92 @@
+
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.tela-inicial {
+  width: 100%;
+  height: 100vh;
+  background: purple;
+  text-align: center;
+}
+
+.logo {
+  width: 80%;
+  margin-top: 0px;
+}
+
+.iniciar {
+  background: #00ffff;
+  font-size: 45px;
+  border: 15px solid #00bfff;
+  margin-top: 80px;
+  color: 1b0033;
+  padding: 10px 20px 10px 20px;
+}
+
+.tela-pergunta {
+  width: 100%;
+  height: 100vh;
+  background: purple;
+  text-align: center;
+}
+
+.cerebro {
+  width: 50%;
+  margin-top: 50px;
+  margin-bottom: 20px;
+}
+
+.pergunta {
+  background: purple;
+  width: 80%;
+  font-size: 30px;
+  padding: 30px 20px 30px 20px;
+  margin: 0 auto;
+}
+
+.botao-responder {
+  background: white;
+  padding: 10px 20px 10px 20px;
+  font-size: 25px;
+  border: none;
+  margin-top: 20px;
+}
+
+.botao-responder:active {
+  background: #1b0033;
+}
+.tela-acertou {
+  width: 100%;
+  height: 100vh;
+  background: purple;
+  text-align: center;
+}
+.acertou {
+  width: 100%;
+  margin-top: 50px;
+  margin-bottom: 20px;
+}
+.tela-errou {
+  width: 100%;
+  height: 100vh;
+  background: purple;
+  text-align: center;
+}
+.errou {
+  width: 100%;
+  margin-top: 50px;
+  margin-bottom: 20px;
+}
+.tela-final {
+  width: 100%;
+  height: 100vh;
+  background: purple;
+  text-align: center;
+}
+.final {
+  width: 100%;
+  margin-top: 50px;
+  margin-bottom: 20px;
+}
